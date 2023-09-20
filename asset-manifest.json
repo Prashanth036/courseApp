@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/courseApp/static/css/main.73993db1.css",
+    "main.js": "/courseApp/static/js/main.8ce3e412.js",
+    "static/js/787.e4ffdd19.chunk.js": "/courseApp/static/js/787.e4ffdd19.chunk.js",
+    "static/media/python1.png": "/courseApp/static/media/python1.63580e54e2e501e3d07d.png",
+    "static/media/golang.png": "/courseApp/static/media/golang.e52c3cba25d0773ce0fe.png",
+    "static/media/startup.jpg": "/courseApp/static/media/startup.4cc55b88b4eb0ebe9bcf.jpg",
+    "static/media/train2.jpg": "/courseApp/static/media/train2.3ebbeb8716584b46ccff.jpg",
+    "static/media/iot_devices.avif": "/courseApp/static/media/iot_devices.e57c58ed89ba02a92e1e.avif",
+    "static/media/Mongo.png": "/courseApp/static/media/Mongo.2178943141ba7e7fae4e.png",
+    "index.html": "/courseApp/index.html",
+    "main.73993db1.css.map": "/courseApp/static/css/main.73993db1.css.map",
+    "main.8ce3e412.js.map": "/courseApp/static/js/main.8ce3e412.js.map",
+    "787.e4ffdd19.chunk.js.map": "/courseApp/static/js/787.e4ffdd19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73993db1.css",
+    "static/js/main.8ce3e412.js"
+  ]
+}
